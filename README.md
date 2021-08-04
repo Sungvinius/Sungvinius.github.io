@@ -1,2 +1,2 @@
 # Sungvinius.github.io
-mia primera pagina web
+mi primera pagina web
